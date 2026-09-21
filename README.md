@@ -1,11 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=kitkatpandamanic&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=hobbyist%20%26%20indie%20builder&descAlignY=60&descSize=18" width="100%" alt="header" />
+<h1 align="center">kitkatpandamanic</h1>
+<p align="center"><i>hobbyist &amp; indie builder</i></p>
 
 <div align="center">
 
 I make games, tools and side projects for the fun of it.
 
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto: kitkatpandamanic@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/umid-murodov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
@@ -39,5 +40,3 @@ I make games, tools and side projects for the fun of it.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kitkatpandamanic-stack&theme=tokyonight&hide_border=true&background=00000000" alt="Contribution streak" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=100&section=footer" width="100%" alt="footer" />
