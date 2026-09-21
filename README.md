@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=kitkatpandamanic&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=hobbyist%20%26%20indie%20builder&descAlignY=60&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=kitkatpandamanic&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=hobbyist%20%26%20indie%20builder&descAlignY=60&descSize=18" width="100%" alt="header" />
 
 <div align="center">
 
@@ -33,8 +33,8 @@ I make games, tools and side projects for the fun of it.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kitkatpandamanic-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitkatpandamanic-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kitkatpandamanic-stack&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kitkatpandamanic-stack&theme=tokyonight" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kitkatpandamanic-stack&theme=tokyonight&hide_border=true&background=00000000" alt="Contribution streak" />
 
