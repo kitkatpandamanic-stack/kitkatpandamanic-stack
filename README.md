@@ -6,8 +6,8 @@
 
 I make games, tools and side projects for the fun of it. 🍜
 
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-FF7A00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" alt="Email" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-FF7A00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A" alt="LinkedIn" /></a>
+<a href="mailto:kitkatpandamanic@gmail.com"><img src="https://img.shields.io/badge/Email-FF7A00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" alt="Email" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/umid-murodov"><img src="https://img.shields.io/badge/LinkedIn-FF7A00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A" alt="LinkedIn" /></a>
 
 </div>
 
